@@ -1,9 +1,10 @@
 # Caldo-Lang
-A compiled memory-safe language for the Aval-OS 
+A compiled functional language with borrow-checking and compile-time garbage collection by default.
+
 ~~~
 fn main()
 {
-	collect let foo : i32 = 45354;
+	let collect foo : i32 = 45354;
 	print(foo);
 }
 ~~~
