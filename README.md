@@ -1,5 +1,5 @@
 # Caldo-Lang
-A compiled functional language with borrow-checking and compile-time garbage collection by default.
+A compiled functional language with borrow-checking.
 
 ~~~
 fn main()
